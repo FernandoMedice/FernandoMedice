@@ -1,12 +1,12 @@
-### Olá, eu sou Fernando Ryan Medice 👋
+### Hi, I'm Fernando Ryan Medice 👋
 
-Sou Analista de Suporte Júnior na 4Solutions e estou em constante evolução na área de tecnologia.
+I'm a Junior Support Analyst at 4Solutions and I'm constantly growing in the technology field.
 
-Mesmo não atuando especificamente como desenvolvedor, acredito que aprender programação, automação e boas práticas técnicas é essencial para crescer em qualquer área de TI.
+Even though I don't work specifically as a developer, I believe that learning programming, automation, and technical best practices is valuable in any area of IT.
 
-Aqui no GitHub compartilho meus estudos, projetos pessoais e experimentos práticos, buscando aprimorar minhas habilidades em resolução de problemas, lógica de programação e desenvolvimento de soluções.
+Here on GitHub, I share my studies, personal projects, and practical experiments as I improve my skills in problem-solving, programming logic, and solution development.
 
-- 💼 Analista de Suporte Júnior na 4Solutions
-- 📚 Estudando programação e boas práticas de desenvolvimento
-- 🛠️ Interesse em automação, suporte técnico, desenvolvimento web e resolução de problemas
-- 🚀 Usando o GitHub como espaço de aprendizado e evolução contínua
+- 💼 Junior Support Analyst at 4Solutions
+- 📚 Currently studying programming and development best practices
+- 🛠️ Interested in automation, technical support, web development, and problem-solving
+- 🚀 Using GitHub as a space for continuous learning and professional growth
